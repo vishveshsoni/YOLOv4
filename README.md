@@ -16,8 +16,8 @@
 
 #
 **Credits & References**
-[Paper: YOLOv4 Optimal Speed and Accuracy of Object Detection ]("https://arxiv.org/pdf/2004.10934.pdf")
-[Github Repo]("https://github.com/AlexeyAB/darknet")
+[Paper: YOLOv4 Optimal Speed and Accuracy of Object Detection ](https://arxiv.org/pdf/2004.10934.pdf)
+[Github Repo](https://github.com/AlexeyAB/darknet)
 
 
   
