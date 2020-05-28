@@ -14,9 +14,11 @@
 
 > notebook demonstrate step by step process to intialize and infernce on model.
 
-#
+
 **Credits & References**
+</br>
 [Paper: YOLOv4 Optimal Speed and Accuracy of Object Detection ](https://arxiv.org/pdf/2004.10934.pdf)
+</br>
 [Github Repo](https://github.com/AlexeyAB/darknet)
 
 
